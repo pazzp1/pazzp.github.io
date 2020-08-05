@@ -1,7 +1,12 @@
 h1 {
-    font-size: 52px;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: #25aa4db6  
+
 }
 
 h2 {color: brown
 
 }
+
+.row {color:rgb(29, 163, 52)}
